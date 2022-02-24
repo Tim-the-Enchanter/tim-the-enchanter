@@ -9,8 +9,6 @@
 
 <!--
 **Tim-the-Enchanter/tim-the-enchanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 
 -->
+![Banner](https://user-images.githubusercontent.com/16215523/155505347-d137bbf0-59ad-4318-b5f1-496089a594d5.jpg)
