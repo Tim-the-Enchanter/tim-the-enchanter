@@ -9,6 +9,8 @@
 - 📫 How to reach me: sgtpixel@gmail.com
 - ⚡ Fun fact: I am starting over at 43yrs old and I have a background in Leadership, Art and Technology
 
+![image](https://user-images.githubusercontent.com/16215523/155614155-65fbfa3d-b4a6-44d5-9671-844b1498539a.png)
+
 <!--
 **Tim-the-Enchanter/tim-the-enchanter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 
