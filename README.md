@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/16215523/155512033-aad22cde-dc8f-45b7-b863-e8069d569c0e.jpg)
+![Banner2](https://user-images.githubusercontent.com/16215523/167498041-ff804a85-3432-4f14-aeef-67f457e71a41.jpg)
+
 
 ### Hi there 👋
 - 🔭 I’m currently working on a BAS is Computer Science
