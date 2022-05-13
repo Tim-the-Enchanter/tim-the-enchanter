@@ -1,7 +1,8 @@
-![Banner2](https://user-images.githubusercontent.com/16215523/167498041-ff804a85-3432-4f14-aeef-67f457e71a41.jpg)
+![Banner2](https://user-images.githubusercontent.com/16215523/168218770-e2c1100f-ff7f-45c1-aef3-189d3fe11107.jpg)
 
 
 ### Hi there 👋
+
 - 🔭 I’m currently working on a BAS is Computer Science
 - 🌱 I’m currently learning how to code in Python and C#
 - 👯 I’m looking to collaborate on other students and mentors of Python, C#, and all things AWS
