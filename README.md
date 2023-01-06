@@ -2,7 +2,13 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on certificates in multiple languages, I have finished Python & C#
+- 🔭 I’m currently working on certificates in multiple languages,
+- Python
+- C#
+- Javascript
+- HTML5 / WIKI Markup
+- CSS
+- JSON
 - 👯 I’m looking to collaborate on other students and mentors of Cloud Computing & AI
 - 💬 My goal is to start a career in Cloud Computing/ AI and work my way up to a Project Coordinator
 - 📫 How to reach me: sgtpixel@gmail.com
